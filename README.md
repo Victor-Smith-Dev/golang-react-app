@@ -89,7 +89,7 @@ Todas las rutas se complementan de la uri `/api/v1`, sin embargo hay dos grupos,
   ![Mostrando productos en cliente](https://i.ibb.co/x6NFNTf/image.png)
 
 - Mostrando historial de un producto en cliente
-  ! [Mostrando historial de un producto en cliente](https://i.ibb.co/5R0fyGF/image.png)  
+  ![Mostrando historial de un producto en cliente](https://i.ibb.co/5R0fyGF/image.png)  
 
 - Logger de peticiones en api
   ![Logger de peticiones en api](https://i.ibb.co/BGHzJQD/image.png)
