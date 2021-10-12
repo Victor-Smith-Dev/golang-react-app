@@ -68,12 +68,12 @@
 
 Todas las rutas se complementan de la uri `/api/v1`, sin embargo hay dos grupos, uno que puede usarse para rutas de un `landigPage`, dado por el grupo `api.Group("/")` y otro especifico del grupo de precios, dado por `api.Group("/product")`, de estos se detallan los siguientes endpoitns
 
-`get -> /`: Obtiene todos los produtos
-`get -> /:id` Recibe un `id` de producto y lo retorna
-`put -> /:id` Recibe un `id` de producto y modifica sus datos, de acuerdo a lo que se reciba del cliente
-`patch -> /:id` Recibe un `id` de producto y modifica sus datos, de acuerdo a lo que se reciba del cliente siempre y cuando el precio sea distinto
-`delete -> /:id` Recibe un `id` de producto y lo borra
-`get -> /:id/prices` Recibe un `id` de producto y devuelve el historial de precios de este
+* `get -> /`: Obtiene todos los produtos
+* `get -> /:id` Recibe un `id` de producto y lo retorna
+* `put -> /:id` Recibe un `id` de producto y modifica sus datos, de acuerdo a lo que se reciba del cliente
+* `patch -> /:id` Recibe un `id` de producto y modifica sus datos, de acuerdo a lo que se reciba del cliente siempre y cuando el precio sea distinto
+* `delete -> /:id` Recibe un `id` de producto y lo borra
+* `get -> /:id/prices` Recibe un `id` de producto y devuelve el historial de precios de este
 
 ### - Mejoras futuras
 
