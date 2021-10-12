@@ -92,7 +92,7 @@ Todas las rutas se complementan de la uri `/api/v1`, sin embargo hay dos grupos,
   ![Logger de peticiones en api](https://i.ibb.co/BGHzJQD/image.png)
 
 - Data inicial insertada luego de leer el archivo `data.json`
-  ![ Data inicial insertada luego de leer el archivo data.json](https://i.ibb.co/93DbsM8/image.png)
+  ![Data inicial insertada luego de leer el archivo data.json](https://i.ibb.co/93DbsM8/image.png)
 
 - Consultando el historial de precios de un producto
   ![Consultando el historial de precios de un producto](https://i.ibb.co/QQpK1r1/image.png)
