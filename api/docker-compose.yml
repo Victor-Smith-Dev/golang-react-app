@@ -1,0 +1,20 @@
+version: "3.5"
+services:
+  app:
+    container_name: app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
+    volumes:
+      - .:/app
+    env_file: .env
+  postgres:
+    image: postgres:latest
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=priceomatic
+      - POSTGRES_PASSWORD=priceomatic
+      - POSTGRES_DB=priceomatic
