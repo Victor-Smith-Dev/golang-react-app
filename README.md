@@ -1,4 +1,4 @@
-# Solución desafio KLARE
+![](https://i.ibb.co/ZY2KY8h/image.png)
 
 ### - Estructura planteada:
 
