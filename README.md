@@ -1,4 +1,4 @@
-![Golang React Postgres App](https://i.ibb.co/hfx46x4/golang.jpg)
+![Golang React Postgres App](https://i.ibb.co/PhZcWVR/golang.jpg)
 
 ### - Estructura planteada:
 
