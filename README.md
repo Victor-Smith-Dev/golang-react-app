@@ -1,4 +1,4 @@
-![](https://i.ibb.co/ZY2KY8h/image.png)
+![](https://i.ibb.co/TWnf1Cn/go.jpg)
 
 ### - Estructura planteada:
 
