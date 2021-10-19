@@ -1,6 +1,11 @@
 ![Golang React Postgres App](https://i.ibb.co/PhZcWVR/golang.jpg)
 
-### - Estructura planteada:
+## - Descripción
+Es una aplicación básica escrita en `golang`, donde se hace uso del framework `fiver` para su desarrollo, la misma tiene una naturaleza SPA debido a que en el front-end encontramos `React Js`, y además para la minipulación de los datos se usa como ORM `gorm` y `postgres`. 
+
+Esto es una práctica básica la cual nace del deseo de incursionar en esta tecnologia la cual tiene muy buena reputación. El código se puede mejorar de muchisimas maneras ya que le dediqué corto tiempo, sin embargo cumple con la naturaleza de `api rest` para el back.
+
+## - Estructura planteada:
 
 - api ( Aplicación backend desarrollada en GOLANG )
   - controllers
@@ -37,7 +42,7 @@
   - App.test.tsx
   - etc...
 
-## - CLiente
+## - Cliente (Front-End)
 
 - Está desarrollado con `React Js & typesript`, tiene lo necesario para mostrar el historial de precios y su historial de cambios.
 - Para ejecutar de se debe ir a la carpera `client` y ejecutar `yarn start`
