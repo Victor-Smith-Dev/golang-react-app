@@ -45,7 +45,7 @@ Esto es una práctica básica la cual nace del deseo de incursionar en esta tecn
 ## - Cliente (Front-End)
 
 - Está desarrollado con `React Js & typesript`, tiene lo necesario para mostrar el historial de precios y su historial de cambios.
-- Para ejecutar de se debe ir a la carpera `client` y ejecutar `yarn start`
+- Para ejecutar de se debe ir a la carpera `client` y ejecutar `yarn install` y luego `yarn start`
 
 ## - API
 
